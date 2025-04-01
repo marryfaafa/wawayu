@@ -1,0 +1,46 @@
+{
+  "name": "wawayu",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueup/vue-quill": "^1.2.0",
+    "axios": "^1.7.2",
+    "echarts": "^5.5.1",
+    "echarts4": "npm:echarts@^4.9.0",
+    "element-plus": "^2.7.6",
+    "emoji-vue": "^0.2.4",
+    "less": "^4.2.0",
+    "less-loader": "^12.2.0",
+    "nprogress": "^0.2.0",
+    "path": "^0.12.7",
+    "pinia": "^2.1.7",
+    "sass-loader": "^14.2.1",
+    "three": "^0.164.1",
+    "video.js": "^8.12.0",
+    "vue": "^3.4.31",
+    "vue-3d-model": "^1.4.1",
+    "vue-baidu-map": "^0.21.22",
+    "vue-baidu-map-3x": "^1.0.39",
+    "vue3-emoji": "^2.1.8",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.75.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.10",
+    "vue-router": "^4.3.2",
+    "vue-tsc": "^2.0.6"
+  },
+  "description": "This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

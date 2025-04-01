@@ -1,0 +1,11 @@
+Model Information:
+* title:	Giant_Salamander
+* source:	https://sketchfab.com/3d-models/giant-salamander-898c4d50fddc458b88b37b2cb4378b4c
+* author:	barontieri (https://sketchfab.com/barontieri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Giant_Salamander" (https://sketchfab.com/3d-models/giant-salamander-898c4d50fddc458b88b37b2cb4378b4c) by barontieri (https://sketchfab.com/barontieri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
